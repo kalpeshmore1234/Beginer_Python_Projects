@@ -1,4 +1,4 @@
-from Sample_Madlibs import hp, code, zombies , hungergames
+from Python_Projects.Sample_Madlibs  import hp, code, zombies , hungergames
 import random
 
 if __name__ == '__main__':
