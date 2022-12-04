@@ -18,8 +18,9 @@ Their eyes were {color} with hunger as they {verb_past_tense} around the city lo
 They were {adj2} and {adj3}, unknowing how to act in this human world... except eat {body_part_plural}!!!! \
 That was their sole mission and they were dedicated towards achieving it for the sake of {noun1}."
     
-print(madlib)
+    print(madlib)
 
 if __name__ == '__main__':
     madlib()
+
 
