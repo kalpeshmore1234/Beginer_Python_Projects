@@ -1,5 +1,5 @@
 # Python_Projects
-It contains the bunch of simple python projects like madlibs, guess the number, rock-paper-scissors, tic-tac-toe etc.
+It contains the bunch of simple python projects like madlibs, guess the number, rock-paper-scissors, hangman etc.
 
 ## List of python projects
  1) madlibs
