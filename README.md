@@ -8,3 +8,5 @@ It contains the bunch of simple python projects like madlibs, guess the number, 
  4) hangman
  5) word replacement program
  6) calculator
+ 7) Email slicer
+ 
