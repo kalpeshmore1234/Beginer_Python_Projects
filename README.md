@@ -7,3 +7,4 @@ It contains the bunch of simple python projects like madlibs, guess the number, 
  3) rock paper scissors
  4) hangman
  5) word replacement program
+ 6) calculator
