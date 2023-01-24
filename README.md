@@ -12,3 +12,4 @@ It contains the bunch of simple python projects like madlibs, guess the number, 
  8) Quiz program
  9) QR code generator
 10) Interest payment calculator
+11) Random password generator
