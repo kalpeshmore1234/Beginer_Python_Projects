@@ -1,4 +1,4 @@
-# install all the libraries needed
+# install all the libraries needed(pip install qrcode Image)
 # create a functon that collects a text and converts it to a QR code
 # Save the QR code as an image
 # run the function
