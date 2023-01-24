@@ -10,4 +10,5 @@ It contains the bunch of simple python projects like madlibs, guess the number, 
  6) Basic calculator
  7) Email slicer
  8) Quiz program
+ 9) QR code generator
 
