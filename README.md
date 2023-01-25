@@ -14,3 +14,4 @@ It contains the bunch of simple python projects like madlibs, guess the number, 
 10) Interest payment calculator
 11) Random password generator
 12) Dice rolling simulator
+13) Site connectivity checker
